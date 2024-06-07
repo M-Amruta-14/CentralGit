@@ -34,4 +34,4 @@ print(List[1:3])
 print(List[:2])
 
 #By leaving out the end value, the range will go on to the end of the list:
-print(List[2:])
+print(List[2:])Writing to List.py file
